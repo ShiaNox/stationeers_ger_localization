@@ -3638,6 +3638,56 @@ Auf geht es, Stationeer!</Value>
       <Value>Lila</Value>
     </Record>
   </Colors>
+  <Mineables>
+    <Record>
+      <Key>Iron</Key>
+      <Value>Eisen</Value>
+    </Record>
+    <Record>
+      <Key>Ice</Key>
+      <Value>Eis</Value>
+    </Record>
+    <Record>
+      <Key>Oxite</Key>
+      <Value>Oxideis</Value>
+    </Record>
+    <Record>
+      <Key>Volatiles</Key>
+      <Value>Flüchtiges Eis</Value>
+    </Record>
+    <Record>
+      <Key>Gold</Key>
+      <Value>Gold</Value>
+    </Record>
+    <Record>
+      <Key>Coal</Key>
+      <Value>Kohle</Value>
+    </Record>
+    <Record>
+      <Key>Copper</Key>
+      <Value>Kupfer</Value>
+    </Record>
+    <Record>
+      <Key>Uranium</Key>
+      <Value>Uran</Value>
+    </Record>
+    <Record>
+      <Key>Silver</Key>
+      <Value>Silber</Value>
+    </Record>
+    <Record>
+      <Key>Nickel</Key>
+      <Value>Nickel</Value>
+    </Record>
+    <Record>
+      <Key>Lead</Key>
+      <Value>Blei</Value>
+    </Record>
+    <Record>
+      <Key>Silicon</Key>
+      <Value>Silizium</Value>
+    </Record>
+  </Mineables>
   <Keys />
   <GameTip />
 </Language>
