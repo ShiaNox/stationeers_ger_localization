@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <!-- Created by ShiaNox for Stationeers / Erstellt von ShiaNox(Discord) für Stationeers-->
 <!-- Special thanks to Inari(Discord) for tracking down most of my Errors / Besonderen Dank an Inari(Discord) für das Finden der meisten meiner Fehler -->
@@ -133,7 +133,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Flüchtige Stoffe</Value>
+      <Value>Volatile</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -151,7 +151,7 @@
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Abbauen</Value><!-- Idee (vaska00762): "Schürfen" oder "Fördern" um "Abbauen" für "Deconstruct" frei machen würde (Ich (ShiaNox) finde es aber nicht ganz passend zur Aktion mit dem Bohrer) -->
+      <Value>Abbauen</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
@@ -223,7 +223,7 @@
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>An</Value><!-- Idee (vaska00762): "Ein" -->
+      <Value>An</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
@@ -243,7 +243,7 @@
     </Record>
     <Record>
       <Key>Construct</Key>
-      <Value>Konstruieren</Value><!-- Idee: "Bauen" / Wird beim Platzieren und Herstellen benutzt was sonst besser mit mit genau den Wörtern oder "Bauen" wäre -->
+      <Value>Konstruieren</Value>
     </Record>
     <Record>
       <Key>Deconstruct</Key>
@@ -275,11 +275,11 @@
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Sperren</Value><!-- wird für alle Gegenstände genutzt um Zugriff zu Verweigern/Gewähren was in manchen Fällen komisch wirkt -->
+      <Value>Sperren</Value>
     </Record>
     <Record>
       <Key>Unlock</Key>
-      <Value>Entsperren</Value><!-- wird für alle Gegenstände genutzt um Zugriff zu Verweigern/Gewähren was in manchen Fällen komisch wirkt -->
+      <Value>Entsperren</Value>
     </Record>
     <Record>
       <Key>Rename</Key>
@@ -613,7 +613,7 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Portabler Tank (Flüchtige Stoffe)</Value>
+      <Value>Portabler Tank (Volatile)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
@@ -753,7 +753,7 @@
     </Record>
     <Record>
       <Key>ItemDuctTape</Key>
-      <Value>Reparaturband</Value><!-- Ideen: (Eigenname) Duct Tape, Gewebeband, Panzerband, Panzertape -->
+      <Value>Reparaturband</Value>
     </Record>
     <Record>
       <Key>ItemDynamite</Key>
@@ -813,7 +813,7 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Behälter (Flüchtige Stoffe)</Value>
+      <Value>Behälter (Volatile)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
@@ -845,7 +845,7 @@
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filter (Flüchtige Stoffe)</Value>
+      <Value>Filter (Volatile)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
@@ -1257,15 +1257,15 @@
     </Record>
     <Record>
       <Key>MotherboardLogic</Key>
-      <Value>Mainboard (Logik)</Value><!-- siehe "Motherboard" -->
+      <Value>Mainboard (Logik)</Value>
     </Record>
     <Record>
       <Key>MotherboardManufacturing</Key>
-      <Value>Mainboard (Herstellung)</Value><!-- siehe "Motherboard" -->
+      <Value>Mainboard (Herstellung)</Value>
     </Record>
     <Record>
       <Key>MotherboardSorter</Key>
-      <Value>Mainboard (Sortiereinheit)</Value><!-- siehe "Motherboard" -->
+      <Value>Mainboard (Sortiereinheit)</Value>
     </Record>
     <Record>
       <Key>MothershipCore</Key>
@@ -1953,7 +1953,7 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>Eis (Flüchtige Stoffe)</Value>
+      <Value>Eis (Volatile)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
@@ -2049,7 +2049,7 @@
     </Record>
     <Record>
       <Key>CartridgeTracker</Key>
-      <Value>Messkassette (Peilsignal Empfänger)</Value><!-- Discord (Inari): "Tracker should be Peiler or Peilgerät imo, and Beacon -> Peilsender" -->
+      <Value>Messkassette (Peilsignal Empfänger)</Value>
     </Record>
     <Record>
       <Key>ItemGasSensor</Key>
@@ -2057,7 +2057,7 @@
     </Record>
     <Record>
       <Key>ItemBeacon</Key>
-      <Value>Mobiler Peilsender</Value><!-- "Mobil" hinzugefügt für bessere Unterscheidung -->
+      <Value>Mobiler Peilsender</Value>
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
@@ -2113,7 +2113,7 @@
     </Record>
     <Record>
       <Key>ItemKitLogicInputOutput</Key>
-      <Value>Bausatz (Logik I/O)</Value><!-- Idee (Inari): "E/A" statt "I/O" / Logisch wäre "E/A" aber auf Elektronikeinheiten habe ich es als Techniker nie gesehen (Auch bei deutscher Beschriftung wurde immer I/O benutzt) / bitte auf Discord eine kleine Debatte wenn ihr "E/A" wollt -->
+      <Value>Bausatz (Logik I/O)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicSwitch</Key>
@@ -2351,7 +2351,7 @@
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>Mainboard</Value><!-- Idee (Inari): "Hauptplatine" für "Motherboard" / "Mainboard" eher im natürlichen Sprachgebrauch / Eure Meinungen?-->
+      <Value>Mainboard</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
@@ -2393,11 +2393,11 @@
     </Record>
     <Record>
       <Key>OnOff</Key>
-      <Value>An Aus</Value><!-- Idee (vaska00762): "Ein Aus" -->
+      <Value>An Aus</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Gesperrt</Value><!-- wird für alle Gegenstände genutzt um Zugriff zu Verweigern/Gewähren was in manchen Fällen komisch wirkt -->
+      <Value>Gesperrt</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
@@ -3653,7 +3653,7 @@ Auf geht es, Stationeer!</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Flüchtiges Eis</Value>
+      <Value>Volatile</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
